@@ -1,0 +1,15 @@
+table{
+    background-color:black;
+    padding: 10px;
+    align-self: center;
+}
+tr{
+    background-color:whitesmoke;
+    padding: 10px;
+}
+td{
+    background-color: aqua;
+}
+th{
+    background-color: palevioletred;
+}
